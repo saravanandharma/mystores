@@ -1,0 +1,10 @@
+INSERT INTO orders (name , amount, created_date )  VALUES ("Saravanan", 786.34 , TO_DATE('2020-02-16') ,
+("Juan", 786.34 , TO_DATE('2020-02-16'),
+("Ajay", 786.34 , TO_DATE('2020-02-16'),
+("Pooshika", 786.34 , TO_DATE('2020-02-16'),
+("Mahith", 786.34 , TO_DATE('2020-02-16'),
+("Saravanan", 786.34 , TO_DATE('2020-02-16'),
+("Priya", 786.34 , TO_DATE('2020-02-16'),
+("Dharmalingam", 786.34 , TO_DATE('2020-02-16'),
+("Summa", 786.34 , TO_DATE('2020-02-16'),
+("Jacksonvill", 786.34 , TO_DATE('2020-02-16');
